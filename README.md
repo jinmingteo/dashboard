@@ -1,6 +1,6 @@
 ## What is VeChain?
 
-<a href="http://vechain.com" target="_blank">VeChain</a> offers blockchain-based services for supply chains via its own native blockchain and tokens, VeChain (VET) and VeChain Thor (VTHO).  By recording all products and/or shipments as transactions in their ledger, VeChain offers manufacturers, distributors, regulators, consumers, and other relevant parties the ability to track an individual product through the supply chain and assess its product life cycle. This is particularly useful in validating the authenticity of the product,  its place of origin, shelf life, etc.
+[VeChain](https://www.vechain.com)  offers blockchain-based services for supply chains via its own native blockchain and tokens, VeChain (VET) and VeChain Thor (VTHO).  By recording all products and/or shipments as transactions in their ledger, VeChain offers manufacturers, distributors, regulators, consumers, and other relevant parties the ability to track an individual product through the supply chain and assess its product life cycle. This is particularly useful in validating the authenticity of the product,  its place of origin, shelf life, etc.
 
 
 ## VeChain – How it works
@@ -32,9 +32,9 @@ Advanced users can also stake their VET on any VET masternode to help validate t
 ## How do I create or join a VET masternode?
 
 To create a VET masternode, you will need
-at least 10,000 VET
-Verified ID (VeVID)
-A 24/7 server or virtual private server (VPS) that is running on Linux, with a fixed IP address.
+1. at least 10,000 VET
+2. Verified ID (VeVID)
+3. A 24/7 server or virtual private server (VPS) that is running on Linux, with a fixed IP address.
 
 If you don’t have the necessary time, capital, or technical interest to operate your own masternode, you’re in luck. 
 
@@ -49,10 +49,9 @@ For more information, [visit our detailed article here.](https://support.cobo.co
 
 **TL;DR:**
 
-**1) Download Cobo Wallet and register an account.**
+**1. Download Cobo Wallet and register an account.**
 
-**2) Send your VET to the Rewards Wallet.**
+**2. Send your VET to the Rewards Wallet.**
 
-**3) HODL VET for 15% VeChain THOR (VTHO) annually and/or stake it with Cobo Wallet for an additional 8.8% (for a total of ~24% VTHO 
+**3. HODL VET for 15% VeChain THOR (VTHO) annually and/or stake it with Cobo Wallet for an additional 8.8% (for a total of ~24% VTHO 
 annually).**
-
