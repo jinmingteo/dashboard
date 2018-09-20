@@ -49,10 +49,10 @@ For more information, [visit our detailed article here.](https://support.cobo.co
 
 **TL;DR:**
 
-**Download Cobo Wallet and register an account.**
+**1) Download Cobo Wallet and register an account.**
 
-**Send your VET to the Rewards Wallet.**
+**2) Send your VET to the Rewards Wallet.**
 
-**HODL VET for 15% VeChain THOR (VTHO) annually and/or stake it with Cobo Wallet for an additional 8.8% (for a total of ~24% VTHO 
+**3) HODL VET for 15% VeChain THOR (VTHO) annually and/or stake it with Cobo Wallet for an additional 8.8% (for a total of ~24% VTHO 
 annually).**
 
