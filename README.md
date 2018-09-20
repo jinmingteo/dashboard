@@ -47,8 +47,8 @@ Users can earn more VTHO with Cobo Wallet (~24% annually), with staking rewards 
 For more information, [visit our detailed article here.](https://support.cobo.com/hc/en-us/articles/360009103753-VET-Rewards-Details)
 
 
-**TL;DR: 
-Download Cobo Wallet and register an account.
-Send your VET to the Rewards Wallet.
-HODL VET for 15% VeChain THOR (VTHO) annually and/or stake it with Cobo Wallet for an additional 8.8% (for a total of ~24% VTHO annually).**
+**TL;DR: **
+**Download Cobo Wallet and register an account.**
+**Send your VET to the Rewards Wallet.**
+**HODL VET for 15% VeChain THOR (VTHO) annually and/or stake it with Cobo Wallet for an additional 8.8% (for a total of ~24% VTHO annually).**
 
