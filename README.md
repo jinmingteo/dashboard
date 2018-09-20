@@ -1,6 +1,6 @@
 ## What is VeChain?
 
-[VeChain](https://www.vechain.com) offers blockchain-based services for supply chains via its own native blockchain and tokens, VeChain (VET) and VeChain Thor (VTHO).  By recording all products and/or shipments as transactions in their ledger, VeChain offers manufacturers, distributors, regulators, consumers, and other relevant parties the ability to track an individual product through the supply chain and assess its product life cycle. This is particularly useful in validating the authenticity of the product,  its place of origin, shelf life, etc.
+<a href="http://vechain.com" target="_blank">VeChain</a> offers blockchain-based services for supply chains via its own native blockchain and tokens, VeChain (VET) and VeChain Thor (VTHO).  By recording all products and/or shipments as transactions in their ledger, VeChain offers manufacturers, distributors, regulators, consumers, and other relevant parties the ability to track an individual product through the supply chain and assess its product life cycle. This is particularly useful in validating the authenticity of the product,  its place of origin, shelf life, etc.
 
 
 ## VeChain – How it works
